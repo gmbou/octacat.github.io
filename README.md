@@ -1,2 +1,2 @@
 # Hello World!
-My name is <GITHUB-GMBOU>
+My name is gmbou
